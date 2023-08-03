@@ -5,3 +5,4 @@
 ### [🖼 Файлы изображений с превью](https://github.com/YouContent/preview)
 ### [🎶 Название музыки с громкостью и аудио-файлами](https://github.com/YouContent/audio)
 ### [▶ YouTube Shorts](https://github.com/YouContent/shorts)
+### [🕵️‍♂️ Теории других ютуберов](https://github.com/YouContent/theory)
