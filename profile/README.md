@@ -3,3 +3,4 @@
 ### [📋 Тексты роликов](https://github.com/YouContent/text)
 ### [🗃 Файлы изображений, рендеров и прочих спец. эффектов](https://github.com/YouContent/render)
 ### [🎶 Название музыки с громкостью и аудио-файлами](https://github.com/YouContent/audio)
+### [▶ YouTube Shorts](https://github.com/YouContent/shorts)
